@@ -1,6 +1,9 @@
 # Simple Chat (Rust)  
 
-A basic chat application written in Rust, consisting of a client and server for simple message exchange.  
+A basic chat application written in Rust, consisting of a client and server for simple message exchange.  \
+
+> Real Example
+
 ![simple_example](./screenshots/real_example.png)
 ## Features  
 - 🚀 Basic TCP client/server communication  
